@@ -1,0 +1,23 @@
+.page {
+	width: 70%;
+	height: 90%;
+}
+
+.menu {
+	background: cyan;
+	text-align: left;
+	height: 400px;
+	width: 20%;
+}
+
+.footer {
+	background: cyan;
+	text-align: center;
+	height: 50px;
+}
+
+.header {
+	background: cyan;
+	text-align: center;
+	height:50px;
+}
